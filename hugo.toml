@@ -1,4 +1,4 @@
-baseurl = "https://skormos.github.io/"
+baseurl = "https://spencer.kormos.net/"
 languageCode = "en-us"
 # theme = "terminal"
 pagination.pagerSize = 5
